@@ -1,16 +1,47 @@
-### Hi there 👋
+## Hi there 👋 I'm Saad
 
-<!--
-**saadusufzai/saadusufzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙂 &nbsp; I'm a Full Stact JavaScript Developer
 
-Here are some ideas to get you started:
+🌱 &nbsp; I’m currently working as a Freelance Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔎 &nbsp; I’m looking for some good prijects great clients  
+
+🔥 &nbsp; Current hot take: Dark mode is not overrated
+
+## Connect with me
+
+[<img align="left" alt="Email" height="25px" src="/Icons/email.png" />][email][saadusufzai@gmail.com](mailto:saadusufzai@gmail.com)<br />
+
+[<img align="left" alt="Twitter" height="25px" src="/Icons/twitter.png" />][twitter][@saadusufzai](https://twitter.com/saadusufzai)
+
+## Languages and tools that I use
+
+### Web development
+
+<img align="left" alt="Email" height="25px" src="/Icons/html.png" /> HTML5
+
+<img align="left" alt="Email" height="25px" src="/Icons/css.png" /> CSS3
+
+<img align="left" alt="Email" height="25px" src="/Icons/jquery.png" /> jQuery
+
+<img align="left" alt="Email" height="25px" src="/Icons/node.png" /> Node.js
+
+<img align="left" alt="Email" height="25px" src="/Icons/react.png" /> React
+
+<img align="left" alt="Email" height="25px" src="/Icons/django.png" /> Django
+
+<img align="left" alt="Email" height="25px" src="/Icons/mongodb.png" /> MongoDB
+
+<img align="left" alt="Email" height="25px" src="/Icons/netlify.png" /> Netlify
+
+<img align="left" alt="Email" height="25px" src="/Icons/heroku.png" /> Heroku
+<br/>
+<br/>
+
+
+🚧 &nbsp; *This README is under construction* &nbsp; 🚧
+
+
+[email]: mailto:saadusufzai@gmail.com
+[twitter]: https://twitter.com/saadusufzai
+[instagram]: https://www.instagram.com/saadusufzai
