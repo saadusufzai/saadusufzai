@@ -4,7 +4,7 @@
 
 🌱 &nbsp; I’m currently working as a Freelance Developer
 
-🔎 &nbsp; I’m looking for some good prijects great clients  
+🔎 &nbsp; I’m looking for some good projects great clients  
 
 🔥 &nbsp; Current hot take: Dark mode is not overrated
 
