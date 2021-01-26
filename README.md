@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Saad
 
-🙂 &nbsp; I'm a Full Stact JavaScript Developer
+🙂 &nbsp; I'm a Full Stack JavaScript Developer
 
 🌱 &nbsp; I’m currently working as a Freelance Developer
 
