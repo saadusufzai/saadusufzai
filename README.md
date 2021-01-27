@@ -22,15 +22,25 @@
 
 <img align="left" alt="Email" height="25px" src="/Icons/css.png" /> CSS3
 
-<img align="left" alt="Email" height="25px" src="/Icons/jquery.png" /> jQuery
+<img align="left" alt="Email" height="25px" src="/Icons/material.png" /> Material UI
+
+<img align="left" alt="Email" height="25px" src="/Icons/js.png" /> JavaScript
+
+<img align="left" alt="Email" height="25px" src="/Icons/ts.png" /> TypeScript
+
+<img align="left" alt="Email" height="25px" src="/Icons/mongodb.png" /> MongoDB
+
+<img align="left" alt="Email" height="25px" src="/Icons/express.png" /> Express Js
+
+<img align="left" alt="Email" height="25px" src="/Icons/react.png" /> React Js
 
 <img align="left" alt="Email" height="25px" src="/Icons/node.png" /> Node.js
 
-<img align="left" alt="Email" height="25px" src="/Icons/react.png" /> React
-
 <img align="left" alt="Email" height="25px" src="/Icons/django.png" /> Django
 
-<img align="left" alt="Email" height="25px" src="/Icons/mongodb.png" /> MongoDB
+<img align="left" alt="Email" height="25px" src="/Icons/graphql.png" /> GraphQL
+
+<img align="left" alt="Email" height="25px" src="/Icons/aws.png" /> Amazon Web Services
 
 <img align="left" alt="Email" height="25px" src="/Icons/netlify.png" /> Netlify
 
