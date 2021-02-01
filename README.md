@@ -6,7 +6,7 @@
 
 🔎 &nbsp; I’m looking for some good projects great clients  
 
-🔥 &nbsp; Current hot take: Dark 
+🔥 &nbsp; Current hot take: Dark mode is not overrated
 
 ## Connect with me
 
