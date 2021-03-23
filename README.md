@@ -36,7 +36,9 @@
 
 <img align="left" alt="Email" height="25px" src="/Icons/node.png" /> Node.js
 
-<img align="left" alt="Email" height="25px" src="/Icons/django.png" /> Django
+<img align="left" alt="Email" height="25px" src="/Icons/rest.png" /> REST API's
+
+<img align="left" alt="Email" height="25px" src="/Icons/graphql.png" /> GraphQL
 
 <img align="left" alt="Email" height="25px" src="/Icons/redux.png" /> Redux
 
