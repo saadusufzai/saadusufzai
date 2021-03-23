@@ -30,6 +30,8 @@
 
 <img align="left" alt="Email" height="25px" src="/Icons/mongodb.png" /> MongoDB
 
+<img align="left" alt="Email" height="25px" src="/Icons/firebase.png" /> FireBase
+
 <img align="left" alt="Email" height="25px" src="/Icons/express.png" /> Express Js
 
 <img align="left" alt="Email" height="25px" src="/Icons/react.png" /> React Js
