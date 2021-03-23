@@ -38,7 +38,7 @@
 
 <img align="left" alt="Email" height="25px" src="/Icons/django.png" /> Django
 
-<img align="left" alt="Email" height="25px" src="/Icons/graphql.png" /> GraphQL
+<img align="left" alt="Email" height="25px" src="/Icons/redux.png" /> Redux
 
 <img align="left" alt="Email" height="25px" src="/Icons/aws.png" /> Amazon Web Services
 
