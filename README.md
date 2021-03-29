@@ -49,6 +49,7 @@
 <img align="left" alt="Email" height="25px" src="/Icons/netlify.png" /> Netlify
 
 <img align="left" alt="Email" height="25px" src="/Icons/heroku.png" /> Heroku
+
 <br/>
  
  
