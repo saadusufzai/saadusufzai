@@ -50,6 +50,8 @@
 
 <img align="left" alt="Email" height="25px" src="/Icons/redux.png" /> Redux
 
+<img align="left" alt="Email" height="25px" src="/Icons/git.png" /> Git Version Control
+ 
 <img align="left" alt="Email" height="25px" src="/Icons/aws.png" /> Amazon Web Services
 
 <img align="left" alt="Email" height="25px" src="/Icons/netlify.png" /> Netlify
