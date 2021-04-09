@@ -14,6 +14,8 @@
 
 [<img align="left" alt="Twitter" height="25px" src="/Icons/twitter.png" />][twitter][@saadusufzai](https://twitter.com/saadusufzai)
 
+[<img align="left" alt="Twitter" height="25px" src="/Icons/instagram.png" />][instagram][@saadusufzai](https://www.instagram.com/saadusufzai)
+
 ## Languages and tools that I use
 
 ### Web development
@@ -23,6 +25,8 @@
 <img align="left" alt="Email" height="25px" src="/Icons/css.png" /> CSS3
 
 <img align="left" alt="Email" height="25px" src="/Icons/material.png" /> Material UI
+
+<img align="left" alt="Email" height="25px" src="/Icons/sementic.png" /> Semantic UI
 
 <img align="left" alt="Email" height="25px" src="/Icons/js.png" /> JavaScript
 
