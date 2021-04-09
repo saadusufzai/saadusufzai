@@ -42,6 +42,8 @@
 
 <img align="left" alt="Email" height="25px" src="/Icons/node.png" /> Node.js
 
+<img align="left" alt="Email" height="25px" src="/Icons/strapi.png" /> Strapi Js
+
 <img align="left" alt="Email" height="25px" src="/Icons/rest.png" /> REST API's
 
 <img align="left" alt="Email" height="25px" src="/Icons/graphql.png" /> GraphQL
@@ -54,10 +56,8 @@
 
 <img align="left" alt="Email" height="25px" src="/Icons/heroku.png" /> Heroku
 
-<br/>
- 
- 
-<br/>
+<br/> 
+<br/> 
 
 🚧 &nbsp; *This Intro is under construction* &nbsp; 🚧
 
