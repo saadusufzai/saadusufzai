@@ -60,7 +60,7 @@
 
 <img align="left" alt="Vercel" height="25px" src="/Icons/vercel.png" /> Vercel
 
-<img align="left" alt="Heroku" height="25px" src="/Icons/heroku.png" /> Herok
+<img align="left" alt="Heroku" height="25px" src="/Icons/heroku.png" /> Heroku
 
 <br/> 
 <br/> 
