@@ -4,7 +4,7 @@
 
 🌱 &nbsp; I’m currently working as a Freelance Developer
 
-🔎 &nbsp; I’m looking for some good projects great clients  
+🔎 &nbsp; I’m looking for some good projects great clients
 
 🔥 &nbsp; Current hot take: Dark mode is not overrated
 
@@ -26,6 +26,8 @@
 
 <img align="left" alt="Material UI" height="25px" src="/Icons/material.png" /> Material UI
 
+<img align="left" alt="Material UI" height="25px" src="/Icons/tailwind-css.png" /> Tailwind CSS
+
 <img align="left" alt="Semantic UI" height="25px" src="/Icons/sementic.png" /> Semantic UI
 
 <img align="left" alt="JavaScript" height="25px" src="/Icons/js.png" /> JavaScript
@@ -33,6 +35,8 @@
 <img align="left" alt="TypeScript" height="25px" src="/Icons/ts.png" /> TypeScript
 
 <img align="left" alt="MongoDB" height="25px" src="/Icons/mongodb.png" /> MongoDB
+
+<img align="left" alt="MongoDB" height="25px" src="/Icons/pgsql.png" /> PostgreSQL
 
 <img align="left" alt="FireBase" height="25px" src="/Icons/firebase.png" /> FireBase
 
@@ -53,7 +57,7 @@
 <img align="left" alt="Redux" height="25px" src="/Icons/redux.png" /> Redux
 
 <img align="left" alt="Git Version Control" height="25px" src="/Icons/git.png" /> Git Version Control
- 
+
 <img align="left" alt="Amazon Web Services" height="25px" src="/Icons/aws.png" /> Amazon Web Services
 
 <img align="left" alt="Netlify" height="25px" src="/Icons/netlify.png" /> Netlify
@@ -63,10 +67,9 @@
 <img align="left" alt="Heroku" height="25px" src="/Icons/heroku.png" /> Heroku
 
 <br/> 
-<br/> 
+<br/>
 
-🚧 &nbsp; *This Intro is under construction* &nbsp; 🚧
-
+🚧 &nbsp; _This Intro is under construction_ &nbsp; 🚧
 
 [email]: mailto:saadusufzai@gmail.com
 [twitter]: https://twitter.com/saadusufzai
