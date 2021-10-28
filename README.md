@@ -40,21 +40,23 @@
 
 <img align="left" alt="FireBase" height="25px" src="/Icons/firebase.png" /> FireBase
 
-<img align="left" alt="Express Js" height="25px" src="/Icons/express.png" /> Express Js
-
 <img align="left" alt="React Js" height="25px" src="/Icons/react.png" /> React Js
 
 <img align="left" alt="Next Js" height="25px" src="/Icons/next.svg" /> Next Js
 
+<img align="left" alt="Redux" height="25px" src="/Icons/redux.png" /> Redux
+
 <img align="left" alt="Node.js" height="25px" src="/Icons/node.png" /> Node.js
+
+<img align="left" alt="Node.js" height="25px" src="/Icons/nest.svg" /> Nest.js
+
+<img align="left" alt="Express Js" height="25px" src="/Icons/express.png" /> Express Js
 
 <img align="left" alt="Strapi Js" height="25px" src="/Icons/strapi.png" /> Strapi Js
 
 <img align="left" alt="REST API's" height="25px" src="/Icons/rest.png" /> REST API's
 
 <img align="left" alt="GraphQL" height="25px" src="/Icons/graphql.png" /> GraphQL
-
-<img align="left" alt="Redux" height="25px" src="/Icons/redux.png" /> Redux
 
 <img align="left" alt="Git Version Control" height="25px" src="/Icons/git.png" /> Git Version Control
 
@@ -72,5 +74,5 @@
 🚧 &nbsp; _This Intro is under construction_ &nbsp; 🚧
 
 [email]: mailto:saadusufzai@gmail.com
-[twitter]: https://twitter.com/saadusufzai
+[twitter]: https://twitter.com/saadusufzaii
 [instagram]: https://www.instagram.com/saadusufzai
