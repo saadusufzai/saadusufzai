@@ -48,13 +48,15 @@
 
 <img align="left" alt="Node.js" height="25px" src="/Icons/node.png" /> Node.js
 
-<img align="left" alt="Node.js" height="25px" src="/Icons/nest.svg" /> Nest.js
+<img align="left" alt="Nest.js" height="25px" src="/Icons/nest.svg" /> Nest.js
 
 <img align="left" alt="Express Js" height="25px" src="/Icons/express.png" /> Express Js
 
 <img align="left" alt="Strapi Js" height="25px" src="/Icons/strapi.png" /> Strapi Js
 
 <img align="left" alt="REST API's" height="25px" src="/Icons/rest.png" /> REST API's
+
+<img align="left" alt="TypeORM" height="25px" src="/Icons/typeorm.png" /> TypeORM
 
 <img align="left" alt="GraphQL" height="25px" src="/Icons/graphql.png" /> GraphQL
 
