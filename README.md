@@ -12,9 +12,9 @@
 
 [<img align="left" alt="Email" height="25px" src="/Icons/email.png" />][email][saadusufzai@gmail.com](mailto:saadusufzai@gmail.com)<br />
 
-[<img align="left" alt="Twitter" height="25px" src="/Icons/twitter.png" />][twitter][@saadusufzai](https://twitter.com/saadusufzai)
+[<img align="left" alt="Twitter" height="25px" src="/Icons/twitter.png" />][twitter][@saadusufzaii](https://twitter.com/saadusufzaii)
 
-[<img align="left" alt="Twitter" height="25px" src="/Icons/instagram.png" />][instagram][@saadusufzaii](https://www.instagram.com/saadusufzai)
+[<img align="left" alt="Twitter" height="25px" src="/Icons/instagram.png" />][instagram][@saadusufzai](https://www.instagram.com/saadusufzai)
 
 ## Languages and tools that I use
 
