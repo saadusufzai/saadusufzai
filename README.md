@@ -2,7 +2,7 @@
 
 🙂 &nbsp; I'm a Full Stack JavaScript Developer
 
-🌱 &nbsp; I’m currently working as a Freelance Developer
+🌱 &nbsp; I’m currently working as a Software Engineer in [Zoneomics](https://zoneomics.com/)
 
 🔎 &nbsp; I’m looking for some good projects great clients
 
