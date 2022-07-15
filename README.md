@@ -4,8 +4,6 @@
 
 🌱 &nbsp; I’m currently working as a Software Engineer in [Zoneomics](https://zoneomics.com/)
 
-🔎 &nbsp; I’m looking for some good projects great clients
-
 🔥 &nbsp; Current hot take: Dark mode is not overrated
 
 ## Connect with me
